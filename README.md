@@ -1,7 +1,3 @@
-Got it! Here's a simplified and more natural version of the **README**—less "AI-polished" and more like something you'd casually write to showcase your project on GitHub:
-
----
-
 # Blinkit Sales Dashboard (Practice Project)
 
 ## About
@@ -50,7 +46,3 @@ Just wanted to sharpen my Power BI skills and get better at building dashboards 
 📧 nasreenrpx@gmail.com  
 📍 Hyderabad, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/nasreen-fatima/)
-
----
-
-Let me know if you want this in a .md file or edited for portfolio use too!
